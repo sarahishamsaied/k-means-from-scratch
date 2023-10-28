@@ -15,11 +15,11 @@ Result: The final centroids represent the center of each cluster. The data point
 
 # Quick Demonstration
 #### Before Clustering
-<img src="https://github.com/sarahishamsaied/k-means-from-scratch/assets/71923204/172e50ed-ce97-45c0-b526-5d4de7137a78" width="410" />
+<img src="https://github.com/sarahishamsaied/k-means-from-scratch/assets/71923204/48f04f23-33cc-4424-bef6-934536f4fe48" width="410" />
 
 #### After Clustering
-![cluster](https://github.com/sarahishamsaied/k-means-from-scratch/assets/71923204/f8b6ba29-7e5d-499e-b559-18a42f1020d8)
 
+![cluster](https://github.com/sarahishamsaied/k-means-from-scratch/assets/71923204/134b4d06-1d26-40d9-a02d-64f197e64a62)
 
 # Data
 You can download the dataset from here https://www.kaggle.com/datasets/stefanoleone992/fifa-22-complete-player-dataset. Use the file `players_22.csv`
